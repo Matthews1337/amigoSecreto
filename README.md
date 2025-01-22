@@ -25,3 +25,5 @@ __JavaScript__: Para implementar a lógica do sorteio e a manipulação dinâmic
 __HTML__: Para estruturar os elementos da página, como campos de entrada e botões.
 
 __CSS__: Para estilizar a página, tornando-a mais atrativa e amigável ao usuário.
+
+### [Testar Site](https://matthews1337.github.io/amigoSecreto/)
